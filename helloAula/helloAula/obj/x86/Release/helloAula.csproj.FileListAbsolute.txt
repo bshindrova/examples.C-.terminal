@@ -1,0 +1,5 @@
+C:\aula\examples.csharp.terminal\helloAula\helloAula\bin\Release\helloAula.exe
+C:\aula\examples.csharp.terminal\helloAula\helloAula\bin\Release\helloAula.pdb
+C:\aula\examples.csharp.terminal\helloAula\helloAula\obj\x86\Release\helloAula.csprojResolveAssemblyReference.cache
+C:\aula\examples.csharp.terminal\helloAula\helloAula\obj\x86\Release\helloAula.exe
+C:\aula\examples.csharp.terminal\helloAula\helloAula\obj\x86\Release\helloAula.pdb
