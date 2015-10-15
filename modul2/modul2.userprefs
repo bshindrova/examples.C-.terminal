@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ReadFromCommandLine\ReadFromCommandLine.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFromCommandLine\Program.cs">
+    <Files>
+      <File FileName="modul2\Program.cs" Line="1" Column="1" />
+      <File FileName="ReadFromCommandLine\Program.cs" Line="39" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

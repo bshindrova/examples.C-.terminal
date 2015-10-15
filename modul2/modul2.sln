@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul2", "modul2\modul2.csproj", "{4BFF5C54-261A-46B4-A5D6-D4973F935DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromCommandLine", "ReadFromCommandLine\ReadFromCommandLine.csproj", "{E348DFDE-62D6-4738-A16B-51463FA789A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFF5C54-261A-46B4-A5D6-D4973F935DF6}.Debug|x86.ActiveCfg = Debug|x86
+		{4BFF5C54-261A-46B4-A5D6-D4973F935DF6}.Debug|x86.Build.0 = Debug|x86
+		{4BFF5C54-261A-46B4-A5D6-D4973F935DF6}.Release|x86.ActiveCfg = Release|x86
+		{4BFF5C54-261A-46B4-A5D6-D4973F935DF6}.Release|x86.Build.0 = Release|x86
+		{E348DFDE-62D6-4738-A16B-51463FA789A6}.Debug|x86.ActiveCfg = Debug|x86
+		{E348DFDE-62D6-4738-A16B-51463FA789A6}.Debug|x86.Build.0 = Debug|x86
+		{E348DFDE-62D6-4738-A16B-51463FA789A6}.Release|x86.ActiveCfg = Release|x86
+		{E348DFDE-62D6-4738-A16B-51463FA789A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

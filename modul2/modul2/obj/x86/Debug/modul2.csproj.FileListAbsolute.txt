@@ -1,0 +1,5 @@
+C:\aula\examples.csharp.terminal\modul2\modul2\bin\Debug\modul2.exe
+C:\aula\examples.csharp.terminal\modul2\modul2\bin\Debug\modul2.pdb
+C:\aula\examples.csharp.terminal\modul2\modul2\obj\x86\Debug\modul2.csprojResolveAssemblyReference.cache
+C:\aula\examples.csharp.terminal\modul2\modul2\obj\x86\Debug\modul2.exe
+C:\aula\examples.csharp.terminal\modul2\modul2\obj\x86\Debug\modul2.pdb

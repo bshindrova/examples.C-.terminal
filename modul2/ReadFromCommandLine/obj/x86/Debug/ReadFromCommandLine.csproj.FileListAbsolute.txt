@@ -1,0 +1,5 @@
+C:\aula\examples.csharp.terminal\modul2\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.csprojResolveAssemblyReference.cache
+C:\aula\examples.csharp.terminal\modul2\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.exe
+C:\aula\examples.csharp.terminal\modul2\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.pdb
+C:\aula\examples.csharp.terminal\modul2\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.exe
+C:\aula\examples.csharp.terminal\modul2\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.pdb
